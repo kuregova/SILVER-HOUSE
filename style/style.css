@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-content{
+    width: 1110px;
+    margin: 0 auto;     
+}
+.nav-list{
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  width: 1110px;
+  margin-bottom: 38px;
+}
+a{
+    text-decoration: none;
+}
+.nav-logo{
+    display: flex;
+    justify-content: center;
+    margin: 80px;
+}
+
+.nav-link{
+color: #8C8A8A;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+font-family: Arial;
+}
+
+.image{
+ display: block;
+ margin: auto
+}
+
+.main{
+    width: 1218px;
+    margin: 0 auto;
+}
+.main-about{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.name{
+color: #4581B7;
+margin-top: 62px;
+margin-left: 40px;
+margin-right: 297px;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+font-family: Arial;
+}
+
+.main-content{
+    background: #F0F0F0;
+    width: 730px;
+height: 500px;
+left: 405px;
+top: 819px;
+
+}
+.text1{
+color: #808080;
+margin-left: 40px;
+margin-right: 95px;
+font-weight: 400;
+font-size: 16px;
+line-height: 27px;
+font-family: Arial;
+}
+
+.main-contact{
+background: #F0F0F0;
+width: 350px;
+height: 500px;
+left: 1165px;
+top: 819px;
+
+}
+.name-contact{
+ color: #4581B7;
+ margin-left: 40px;
+ margin-top: 50px;
+ margin-right: 160px;
+font-weight: 700;
+font-size: 20px;
+line-height: 23px;
+font-family: Arial;
+}
+
+.text2{
+    color: #808080;
+    margin-left: 40px; 
+    margin-top: 25px;
+    margin-right: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    font-family: Arial;
+}
+
+.footer{
+    width: 1110px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    margin-top: 30px;
+    background: #F0F0F0;
+    
+}
+
+.footer-text{
+    display: flex;
+    flex-direction: column;
+}
+
+.text3{
+color: #808080;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+font-family: Arial;
+}
+
+.footer-number{
+color: #808080;
+width: 205px;
+height: 29px;
+left: 1265px;
+top: 1424px;
+font-weight: 700;
+font-size: 25px;
+line-height: 29px;
+font-family: Arial;
+}
+
+
+   
+
+
